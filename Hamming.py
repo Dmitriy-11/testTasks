@@ -6,4 +6,13 @@ def getWeightHamming(binaryCode):
     return weight
 
 
-print(getWeightHamming('100010010110111101101'))
+def getBinaryCode(str):
+    if str.isdigit():
+        return bin(int(str))[2:]
+    else:
+        return ' '.join(format(ord(x), 'b') for x in str)
+
+
+inp = input("Enter string or number: ")
+binaryCode = getBinaryCode(inp)
+print("Weight Hamming = ", getWeightHamming(binaryCode))
