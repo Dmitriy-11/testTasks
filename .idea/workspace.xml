@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.Hamming">
+  <component name="RunManager" selected="Python.UsingDecorator">
     <configuration name="Ackermann" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,8 +98,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="UsingDecorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UsingDecorator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.UsingDecorator" />
         <item itemvalue="Python.Hamming" />
         <item itemvalue="Python.Ackermann" />
         <item itemvalue="Python.PascalsTriangle" />
@@ -118,7 +141,7 @@
       <updated>1614267138935</updated>
       <workItem from="1614267140963" duration="6036000" />
       <workItem from="1614274101097" duration="2220000" />
-      <workItem from="1614411020578" duration="4631000" />
+      <workItem from="1614411020578" duration="8783000" />
     </task>
     <servers />
   </component>
@@ -126,38 +149,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1614417608082">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1614619695744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614417608082" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1614417608082">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614619695744" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1614619695744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614417608082" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1614417608082">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614619695744" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1614619695743">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614417608082" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1614417608082">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614619695743" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1614619695744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614417608082" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1614273239285">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614619695744" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1614418298671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614273239285" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1614273239285">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614418298671" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1614418298671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614273239285" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1614273239285">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614418298671" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1614418298671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614273239285" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1614273239285">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614418298671" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1614418298671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614273239285" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614418298671" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1614411020796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -176,12 +199,14 @@
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="lineTemp[i] + lineTemp[i + 1]" language="Python" />
+        <watch expression="' '.join(map(bin, bytearray(str, 'utf8'))).replace('0b', '')" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tasks$Ackermann.coverage" NAME="Ackermann Coverage Results" MODIFIED="1614275169072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tasks$PascalsTriangle.coverage" NAME="PascalsTriangle Coverage Results" MODIFIED="1614275028161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/tasks$Hamming.coverage" NAME="Hamming Coverage Results" MODIFIED="1614417608058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tasks$Hamming.coverage" NAME="Hamming Coverage Results" MODIFIED="1614618878978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tasks$UsingDecorator.coverage" NAME="UsingDecorator Coverage Results" MODIFIED="1614619695716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

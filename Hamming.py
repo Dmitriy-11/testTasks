@@ -10,9 +10,10 @@ def getBinaryCode(str):
     if str.isdigit():
         return bin(int(str))[2:]
     else:
-        return ' '.join(format(ord(x), 'b') for x in str)
+        return ' '.join(map(bin, bytearray(str, 'utf8'))).replace('0b', '')
 
 
 inp = input("Enter string or number: ")
 binaryCode = getBinaryCode(inp)
+print(binaryCode)
 print("Weight Hamming = ", getWeightHamming(binaryCode))
